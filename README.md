@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! I'm Moisés Ximenes 👋</h1>
+<h1>Hi there! I'm Moisés Ximenes 👋</h1>
 
-<p align="center">
+<p>
   <strong>Cloud Solutions Support Analyst • Microsoft Azure • Microsoft 365 • AWS ☁️</strong>
 </p>
 
-<p align="center">
+<p>
 Passionate about Cloud Computing, Infrastructure, Security, Automation and Continuous Learning.
 </p>
 
@@ -52,7 +52,7 @@ I believe technology is a continuous learning journey. I'm always looking to imp
 
 ## 📫 Connect with Me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/moises-ximenes/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -70,7 +70,7 @@ I believe technology is a continuous learning journey. I'm always looking to imp
 
 ---
 
-<div align="center">
+<div>
 
 *"Learning never exhausts the mind. Every challenge is an opportunity to grow."* 🚀
 
